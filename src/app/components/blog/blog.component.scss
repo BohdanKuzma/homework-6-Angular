@@ -1,0 +1,24 @@
+.heading {
+    width: 100%;
+    min-height: 75px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    flex-direction: column;
+    background-color: rgb(61, 61, 61);
+    color: white;
+    font-size: 14px;
+  }
+  
+  .flex_heading {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .flex_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
